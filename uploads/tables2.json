@@ -1,0 +1,15 @@
+{
+	"tables": [{
+			"title": "table example title 2.1",
+			"rows": 25,
+			"columns": 22,
+			"notes": "table nodes 2.1"
+		},
+		{
+			"title": "table example title 2.2",
+			"rows": 27,
+			"columns": 28,
+			"notes": "table nodes text 2.2"
+		}
+	]
+}
